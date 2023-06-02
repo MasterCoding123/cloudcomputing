@@ -1,0 +1,6 @@
+API was created to uplaod images to S3 bucket 
+Separate S3 bucket was created to upload the packages 
+Lambda layer was created to impost packages for image detecten 
+Lambda was triggered with S3 bucket to perform actions based on every image uploaded 
+DynamoDB was created to import the details from the images 
+Cloud watch were created to monitor the performance 
